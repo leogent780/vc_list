@@ -35,6 +35,23 @@ data = [
     ("초기 (Pre-Seed/Seed)", "컴퍼니케이파트너스", "Seed / Series A", "초기 소비재·서비스 특화", ""),
     ("초기 (Pre-Seed/Seed)", "엔슬파트너스", "Seed / Series A", "초기 기술 스타트업 투자", ""),
 
+    # 추가: 액셀러레이터 & 초기 VC
+    ("초기 (Pre-Seed/Seed)", "블루포인트파트너스 (Bluepoint Partners)", "Pre-Seed / Seed", "이용관 설립, 딥테크 특화, 창업자 선호 1위 AC, 200개+ 투자", "bluepoint.ac"),
+    ("초기 (Pre-Seed/Seed)", "소풍벤처스 (Sopoong Ventures)", "Pre-Seed / Seed", "임팩트·소셜벤처 특화, 2024년 VC 라이선스 취득", "sopoong.net"),
+    ("초기 (Pre-Seed/Seed)", "해시드 (Hashed)", "Seed / Series A", "블록체인·Web3 전문 글로벌 VC, 김서준 설립", "hashed.com"),
+    ("초기 (Pre-Seed/Seed)", "캡스톤파트너스 (Capstone Partners)", "Seed / Series A", "독립계 초기 VC, 500억+ 펀드 운용", "capstonepartners.co.kr"),
+    ("초기 (Pre-Seed/Seed)", "스트롱벤처스 (Strong Ventures)", "Seed / Series A", "미국·한국 크로스보더 초기 투자, 2025H1 11건 투자", "strongvc.com"),
+    ("초기 (Pre-Seed/Seed)", "씨엔티테크 (CNT Tech)", "Pre-Seed / Seed", "2003년 설립, 스포츠·엔터프라이즈 특화 AC, 상장 추진 중", "cntt.co.kr"),
+    ("초기 (Pre-Seed/Seed)", "더인벤션랩 (The Invention Lab)", "Pre-Seed / Seed", "2014년 설립, 누적 투자 260억, 25개+ 펀드 운용, AI·딥테크", "theinventionlab.co.kr"),
+    ("초기 (Pre-Seed/Seed)", "빅뱅엔젤스 (BigBang Angels)", "Pre-Seed / Seed", "2012년 설립, 엔터프라이즈·B2B SaaS 특화 AC", "bigbangangels.com"),
+    ("초기 (Pre-Seed/Seed)", "슈미트 (Schmidt)", "Pre-Seed / Seed", "2025H1 10건+ 투자, 초기 스타트업 특화 AC", ""),
+    ("초기 (Pre-Seed/Seed)", "엠와이소셜컴퍼니 (MY Social Company)", "Pre-Seed / Seed", "2025H1 초기 라운드 투자 최다 참여 AC 중 하나", ""),
+    ("초기 (Pre-Seed/Seed)", "한국투자액셀러레이터", "Pre-Seed / Seed", "한국투자증권 계열 AC, 검증된 금융 네트워크 보유", "ac.koreainvestment.com"),
+    ("초기 (Pre-Seed/Seed)", "테크스타스 코리아 (Techstars Korea)", "Pre-Seed / Seed", "글로벌 액셀러레이터 Techstars 한국 프로그램", "techstars.com"),
+    ("초기 (Pre-Seed/Seed)", "K-Startup (정부 프로그램)", "Pre-Seed / Seed", "정부 지원 글로벌 스타트업 육성 프로그램, 중기부 운영", "k-startup.go.kr"),
+    ("초기 (Pre-Seed/Seed)", "로아인벤션랩 (ROA Invention Lab)", "Pre-Seed / Seed", "지능정보·AI 특화 AC, K-Global 액셀러레이터 육성사업 참여", ""),
+    ("초기 (Pre-Seed/Seed)", "한국엔젤투자협회 (KBAN)", "Pre-Seed / Seed", "2012년 설립, 엔젤투자 지원 및 매칭 플랫폼 운영", "kban.or.kr"),
+
     ("초기~중기 (Series A/B)", "알토스벤처스 (Altos Ventures)", "Series A~C", "쿠팡·크래프톤 등 대형 투자, 미국계 독립 VC", "altosvc.com"),
     ("초기~중기 (Series A/B)", "소프트뱅크벤처스아시아", "Series A~C", "소프트뱅크 계열, 아시아 특화", "softbank.vc"),
     ("초기~중기 (Series A/B)", "IMM인베스트먼트", "Series A~C", "대형 독립계 VC", "imminvestment.com"),
