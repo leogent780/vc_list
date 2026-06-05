@@ -52,6 +52,12 @@ data = [
     ("초기 (Pre-Seed/Seed)", "로아인벤션랩 (ROA Invention Lab)", "Pre-Seed / Seed", "지능정보·AI 특화 AC, K-Global 액셀러레이터 육성사업 참여", ""),
     ("초기 (Pre-Seed/Seed)", "한국엔젤투자협회 (KBAN)", "Pre-Seed / Seed", "2012년 설립, 엔젤투자 지원 및 매칭 플랫폼 운영", "kban.or.kr"),
 
+    # 2차 추가
+    ("초기 (Pre-Seed/Seed)", "N파트너스 (N Partners)", "Pre-Seed / Seed / Series A", "2022년 설립, 카카오·크래프톤·토스·당근 투자 경험 파트너진, AI·블록체인·핀테크·헬스케어 집중", "n.partners"),
+    ("초기 (Pre-Seed/Seed)", "ZDVC (지디벤처스)", "Pre-Seed / Seed", "2023년 설립, 20대 파트너 4인 운영, K팝·콘텐츠·뷰티·패션·Web3 집중, 5천만~1.5억 소액 초기 투자", ""),
+    ("초기 (Pre-Seed/Seed)", "스프링캠프 (SpringCamp)", "Pre-Seed / Seed", "2015년 설립, 서울대·스탠포드 인근 거점, 10년 532개사 투자 32% IRR, 미국 진출 지원 강점", "springcamp.co"),
+    ("초기 (Pre-Seed/Seed)", "프라이머사제파트너스", "Seed / Series A", "프라이머 출신 설립, 업스테이지 등 초기 시드 투자, 딥테크·AI 집중", ""),
+
     ("초기~중기 (Series A/B)", "알토스벤처스 (Altos Ventures)", "Series A~C", "쿠팡·크래프톤 등 대형 투자, 미국계 독립 VC", "altosvc.com"),
     ("초기~중기 (Series A/B)", "소프트뱅크벤처스아시아", "Series A~C", "소프트뱅크 계열, 아시아 특화", "softbank.vc"),
     ("초기~중기 (Series A/B)", "IMM인베스트먼트", "Series A~C", "대형 독립계 VC", "imminvestment.com"),
